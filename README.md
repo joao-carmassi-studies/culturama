@@ -9,4 +9,4 @@
 * CSS
 
 ## Link:
-https://joao-carmassi.github.io/Culturama/
+https://joao-carmassi.github.io/culturama/
