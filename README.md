@@ -1,12 +1,11 @@
-![image](https://github.com/joao-carmassi/Culturama/assets/90992816/1602c6f5-804d-4f16-aee2-3106c8522b99)
+# Culturama 📸
 
-<hr>
+![Preview](https://github.com/joao-carmassi/Culturama/assets/90992816/1602c6f5-804d-4f16-aee2-3106c8522b99)
 
-<p align="center">Página de compartilhamento de foto.</p>
+<p align="center">🖼️ Plataforma para compartilhamento de fotos, simples e direta.</p>
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+---
 
-## Link:
-https://joao-carmassi.github.io/culturama/
+## 🛠 Tecnologias
+- HTML
+- CSS
